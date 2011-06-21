@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #import sys
 from distutils.core import setup
+
 # if sys.version < '2.5':
 #     sys.exit('Python 2.5 or higher is required')
 
@@ -25,4 +26,3 @@ setup(name='cssprefixer',
         'Topic :: Software Development :: Libraries',
       ],
       package_data={},
-)
